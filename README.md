@@ -465,9 +465,5 @@ const config = require('../config/config.json');
 
 4. **Maintainability**:
    - Modular structure simplifies debugging and enhancements.
-
-This framework can be further extended to cover complex workflows, additional SObjects, or Salesforce-specific features like Chatter or Reports.
-Here are the implementations for **contactPage.js** and **accountPage.js** using the Page Object Model design pattern:
-
 ---
 
