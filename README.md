@@ -1,6 +1,6 @@
 "# e2e-salesforce" 
 
-Here is a blueprint for an extendable **Salesforce Testing Automation Framework** that supports end-to-end testing with separated concerns, modular design, and a Page Object Model (POM) approach.
+An implementation of an extendable **Salesforce Testing Automation Framework** that supports end-to-end testing with separated concerns, modular design, and a Page Object Model (POM) approach.
 
 ### Framework Structure
 ```
