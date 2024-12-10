@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://login.salesforce.com",
+  "username": "fmcoderteacher@starqhub.com",
+  "password": "PA$$word1_",
+  "oauth": {
+    "client_id": "your_client_id_here",
+    "client_secret": "your_client_secret_here",
+    "grant_type": "password"
+  }
+}
